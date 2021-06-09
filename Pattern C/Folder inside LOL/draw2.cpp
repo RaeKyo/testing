@@ -2,7 +2,7 @@
 // Just get the row > 1 & <10 OK
 int main(){
 	int row,column;
-	printf ("Enter row :");
+	printf ("Enter row :,create conflict");
 	scanf("%d",&row);
 	printf ("\nEnter column :");
 	scanf("%d",&column);
