@@ -1,5 +1,5 @@
 #include <stdio.h>
-// Just get the row > 1 & <10
+// Just get the row > 1 & <10 OK
 int main(){
 	int row,column;
 	printf ("Enter row :");
